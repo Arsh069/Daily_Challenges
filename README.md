@@ -1,2 +1,20 @@
-# Daily_Challenges
-This Repository is labelled with HacktoberFest, So make a Pull Request for one of the LeetCode Daily Challenge's to complete your task. 
+# 🎃 Hacktoberfest LeetCode Daily_Challenges 🎃
+This repo is meant to contain LeetCode Daily Challenge's solutions and this repo is also labelled with HacktoberFest, so make a Pull Request and complete your tasks!
+
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+
+# What is Hacktoberfest?
+
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+<tr><td align="center"><a href="https://github.com/Arsh067"><kbd><img src="https://avatars3.githubusercontent.com/Arsh067?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Arsh069</b></sub></a><br/><a href="https://github.com/Arsh069/Daily_Challenges/commits?author=Arsh067" title="Code"> :computer: </a> </td> <tr><td align="center"><a href="https://github.com/bernabesc"><kbd><img src="https://avatars3.githubusercontent.com/bernabesc?size=400" width="100px;" alt=""/></kbd><br /><sub><b>bernabesc</b></sub></a><br/><a href="https://github.com/Arsh069/Daily_Challenges/commits?author=bernabesc" title="Code"> :computer: </a> </td> <tr><td align="center"><a href="https://github.com/kpandey15"><kbd><img src="https://avatars3.githubusercontent.com/kpandey15?size=400" width="100px;" alt=""/></kbd><br /><sub><b>kpandey15</b></sub></a><br/><a href="https://github.com/Arsh069/Daily_Challenges/commits?author=kpandey15" title="Code"> :computer: </a> </td> <tr><td align="center"><a href="https://github.com/g-paras"><kbd><img src="https://avatars3.githubusercontent.com/g-paras?size=400" width="100px;" alt=""/></kbd><br /><sub><b>g-paras</b></sub></a><br/><a href="https://github.com/Arsh069/Daily_Challenges/commits?author=g-paras" title="Code"> :computer: </a> </td>
+
+
+</tr>
+</table>
